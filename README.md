@@ -4,7 +4,7 @@ Based on code challenge detailed on _FED Coding Test_061316.docx_ document.
 
 ## Requirements Overview
 
-- Use a set of JavaScript libraries. (see `bottle-rock-app`)
+- Use a set of JavaScript libraries. (see [`bottle-rock-app`](bottle-rock-app))
 - Get a JSON Feed. (see [`bottle-rock-svc`](bottle-rocket-svc))
 - Follow a mobile-first RWD process.
 - Reuse of comps with different devices.
@@ -13,7 +13,7 @@ Based on code challenge detailed on _FED Coding Test_061316.docx_ document.
 
 ## bottle-rock-app
 
-React app, with a CRA with a typescript-redux setup. ([more info](https://github.com/reduxjs/cra-template-redux-typescript))
+Responsive Bottle Rock React app, bootstrapped with a CRA with a typescript-redux setup. ([more info](https://github.com/reduxjs/cra-template-redux-typescript))
 
 ## bottle-rock-svc
 
