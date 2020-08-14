@@ -13,6 +13,13 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - [x] Map View. I included a marker and a very basic info view.
 - [x] Browser support. Tested with OSX Chrome and iOS Safari.
 
+### Preview
+
+[xs-list-view.png](screenshots/xs-list-view.png)
+[xs-detail-view.png](screenshots/xs-detail-view.png)
+[lg-list-view.png](screenshots/lg-list-view.png)
+[lg-detail-view.png](screenshots/lg-detail-view.png)
+
 ### Future Steps
 
 - Resolve drawer animation within the router comp.
