@@ -9,7 +9,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - [x] Get JSON Feed. (locally)
 - [x] Responsive Design. I used Material UI because I'm currently using in a project.
 - [x] Mobile screens adequations: Remove the global footer, Detail/List View.
-- [] Navigation with Drawer animation. Couldn't achieve this, I tried both Material UI Transitions, and CSS Transitions, but I'll try to solve it in the future.
+- [ ] Navigation with Drawer animation. Couldn't achieve this, I tried both Material UI Transitions, and CSS Transitions, but I'll try to solve it in the future.
 - [x] Map View. I included a marker and a very basic info view.
 - [x] Browser support. Tested with OSX Chrome and iOS Safari.
 
