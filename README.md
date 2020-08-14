@@ -5,7 +5,7 @@ Based on code challenge detailed on _FED Coding Test_061316.docx_ document.
 ## Requirements Overview
 
 - Use a set of JavaScript libraries. (see `bottle-rock-app`)
-- Get a JSON Feed. (see `bottle-rock-svc`)
+- Get a JSON Feed. (see [`bottle-rock-svc`](bottle-rocket-svc))
 - Follow a mobile-first RWD process.
 - Reuse of comps with different devices.
 - Include a Map View.
