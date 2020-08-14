@@ -15,10 +15,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ### Preview
 
-[xs-list-view.png](screenshots/xs-list-view.png)
-[xs-detail-view.png](screenshots/xs-detail-view.png)
-[lg-list-view.png](screenshots/lg-list-view.png)
-[lg-detail-view.png](screenshots/lg-detail-view.png)
+![xs-list-view.png](screenshots/xs-list-view.png)
+![xs-detail-view.png](screenshots/xs-detail-view.png)
+![lg-list-view.png](screenshots/lg-list-view.png)
+![lg-detail-view.png](screenshots/lg-detail-view.png)
 
 ### Future Steps
 
